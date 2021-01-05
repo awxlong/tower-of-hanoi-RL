@@ -2,6 +2,10 @@ import numpy as np
 from enum import Enum
 
 class Environment:
+    '''
+    Intuitive environment for Tower of Hanoi in which
+    the RL agent will learn to play
+    '''
     def __init__(self, discs):
         self.state = State(discs)
         self.discs = discs
