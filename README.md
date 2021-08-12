@@ -1,4 +1,4 @@
-# Tower-Of-Hanoi-RL
+# Tower-Of-Hanoi-Reinforcement-Learning
 # Introduction
 
 The following is an implementation of a RL SARSA Agent that can learn to solve the Tower of Hanoi problem. The template code comes from https://github.com/clarisli/RL-Easy21 and it was adapted to this problem. 
